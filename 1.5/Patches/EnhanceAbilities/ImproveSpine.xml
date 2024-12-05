@@ -3,7 +3,7 @@
     <Operation Class="PatchOperationReplace">
         <xpath>/Defs/AbilityDef[defName = "PiercingSpine"]/verbProperties/range</xpath>
         <value>
-            <range>55</range>
+            <range>44.9</range>
         </value>
     </Operation>
 </Patch>

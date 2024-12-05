@@ -1,0 +1,1 @@
+the planned modification is to add in tracking capability, but keep decreased (well, shorter, possibly this one, possibly less) range, as opposed to the current boosted one
